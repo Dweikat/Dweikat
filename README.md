@@ -6,7 +6,7 @@ I studied computer engineering at ANUU in Nablus - Palestine. I am interested in
 
 Skills:  REACT / JS / HTML / CSS
 
-- 🌱 I’m currently learning ui/ux 
+- 🌱 I’m currently learning UI/UX 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dweikat)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/BakerDweikat)  
