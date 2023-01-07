@@ -1,11 +1,11 @@
 ### Hi there 👋, I'm Baker Dweikat
 #### I am a Frontend developer
-![I am a Frontend developer](https://github.com/Dweikat/Dweikat/blob/main/37985229_2152235851727928_1245052912497852416_n.jpg)
+![I am a Backend developer](https://github.com/Dweikat/Dweikat/blob/main/37985229_2152235851727928_1245052912497852416_n.jpg)
 
-I studied computer engineering at ANUU in Nablus - Palestine. I am interested in the web field, specifically Frontand. I work as a freelancer.
+I studied computer engineering at ANUU in Nablus - Palestine. I am interested in the web field, specifically Backend. .
 
 ##### Skills: 
-* ⚛ REACT 
+*  Django / python 
 * 💻 JS / HTML / CSS
 
 - 🌱 I’m currently learning nodejs 
