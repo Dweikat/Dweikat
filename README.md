@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Baker Dweikat
 #### I am a Backend developer
-![I am a Backend developer](https://github.com/Dweikat/Dweikat/blob/main/37985229_2152235851727928_1245052912497852416_n.jpg)
+![I am a Backend developer](https://github.com/Dweikat/Dweikat/blob/main/welcome to my.png)
 
 I studied computer engineering at ANUU in Nablus - Palestine. I am interested in the web field, specifically Backend. .
 
